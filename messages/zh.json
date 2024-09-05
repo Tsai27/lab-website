@@ -1,0 +1,13 @@
+{
+    "HomePage": {
+      "title": "中文毁灭吧!",
+      "about": "去看看关于吧"
+    },
+    "LocaleSwitcher": {
+      "locale": "Switch to {locale, select, zh {Chinese} en {English} other {Chinese}}",
+      "label": "Language"
+    },
+    "Navigation": {
+      "home": "首页"
+    }
+  }
