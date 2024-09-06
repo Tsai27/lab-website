@@ -39,7 +39,7 @@ export default function LocaleSwitcherSelect({
   return (
     <label
       className={clsx(
-        'relative text-gray-400'
+        'relative text-gray-600 flex'
       )}
     >
       <p className="sr-only">{label}</p>

@@ -13,10 +13,16 @@ export const routing = defineRouting({
   defaultLocale: 'en',
   pathnames: {
     '/': '/',
-    '/pathnames': {
-      en: '/pathnames',
-      zh: '/路径'
-    }
+    '/news':'/news',
+    '/work':'/work',
+    '/share':'/share',
+    '/experience':'/experience',
+    '/members': '/members',
+    '/about':'/about',
+    // '/pathnames': {
+    //   en: '/pathnames',
+    //   zh: '/路径'
+    // }
   }
 });
 

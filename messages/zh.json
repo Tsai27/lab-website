@@ -1,13 +1,65 @@
 {
+    "LocaleLayout": {
+      "title": "CAAS 实验室"
+    },
     "HomePage": {
-      "title": "中文毁灭吧!",
-      "about": "去看看关于吧"
+      "title": "CAAS 实验室",
+      "about": "去看看关于吧",
+      "heroSlogan": "CAAS 实验室",
+      "heroDetail": "我们致力于精准农业",
+      "heroGo": "前往",
+      "featuresTitle": "我们的优势",
+      "featuresDetail": "遥感、数字化、AI、机器学习等",
+      "featuresFirstTitle": "我们的第一个特性",
+      "featuresFirstDetail": "我们可以做到这些",
+      "featuresSecondTitle": "我们的第二个特性",
+      "featuresSecondDetail": "我们可以做到这些",
+      "featuresThirdTitle": "我们的第三个特性",
+      "featuresThirdDetail": "我们可以做到这些",
+      "testimonialTitle": "我们最重要的工作是什么?",
+      "testimonialFirst": "第一件事，我们说真话",
+      "testimonialFirstDetail": "我们总是讨厌谎言",
+      "testimonialSecond": "第二件事，我们讨厌谎言",
+      "testimonialSecondDetail": "我们总是说真话",
+      "testimonialThird": "第三件事，我们说重要的事情",
+      "testimonialThirdDetail": "我们总是关注于好的方面",
+      "testimonialGo":"查看",
+      "CTATitle":"加入我们",
+      "CTAGo":"查看"
     },
     "LocaleSwitcher": {
-      "locale": "Switch to {locale, select, zh {Chinese} en {English} other {Chinese}}",
-      "label": "Language"
+      "locale": "{locale, select, zh {中文} en {English} other {中文}}",
+      "label": "语言"
     },
     "Navigation": {
-      "home": "首页"
+      "home": "首页",
+      "news":"新闻",
+      "work":"成果",
+      "share":"分享",
+      "experience":"经验",
+      "members":"成员",
+      "about":"关于我们"
+    },
+    "NewsPage":{
+      "title":"新闻"
+    },
+    "WorkPage":{
+      "title":"成果"
+    },
+    "SharePage":{
+      "title":"分享"
+    },
+    "ExperiencePage":{
+      "title":"经验"
+    },
+    "MembersPage":{
+      "title":"成员"
+    },
+    "AboutPage":{
+      "title":"关于我们"
+    },
+    "Footer":{
+      "copyright":"版权为 2022 CaasLab 全部所有",
+      "link":"一些链接"
     }
   }

@@ -1,13 +1,65 @@
 {
+    "LocaleLayout": {
+      "title": "Lab of CAAS"
+    },
     "HomePage": {
-      "title": "Hello world!",
-      "about": "Go to the about page"
+      "title": "Lab of CAAS",
+      "about": "Go to the about page",
+      "heroSlogan": "The Lab of CAAS",
+      "heroDetail": "major in pricision Agriculture",
+      "heroGo": "check",
+      "featuresTitle": "we stand for the best",
+      "featuresDetail": "remote sensing, digitalization, AI, machine learning, etc.",
+      "featuresFirstTitle": "Our First Feature",
+      "featuresFirstDetail": "We can do it all",
+      "featuresSecondTitle": "Our Second Feature",
+      "featuresSecondDetail": "We can do it all",
+      "featuresThirdTitle": "Our Third Feature",
+      "featuresThirdDetail": "We can do it all",
+      "testimonialTitle": "What's our Most Important Work?",
+      "testimonialFirst": "First Thing, we tell truth",
+      "testimonialFirstDetail": "we always hate lies",
+      "testimonialSecond": "Second Thing, we hate lies",
+      "testimonialSecondDetail": "we always tell truth",
+      "testimonialThird": "Third Thing, we tell important things",
+      "testimonialThirdDetail": "we always focus on the good",
+      "testimonialGo":"check",
+      "CTATitle":"Join Us",
+      "CTAGo":"check"
     },
     "LocaleSwitcher": {
-      "locale": "Switch to {locale, select, zh {Chinese} en {English} other {Chinese}}",
+      "locale": "{locale, select, zh {中文} en {English} other {中文}}",
       "label": "Language"
     },
     "Navigation": {
-      "home": "HomePage"
+      "home": "HomePage",
+      "news":"News",
+      "work":"Work",
+      "share":"Share",
+      "experience":"Experience",
+      "members":"Members",
+      "about":"About"
+    },
+    "NewsPage":{
+      "title":"news"
+    },
+    "WorkPage":{
+      "title":"work"
+    },
+    "SharePage":{
+      "title":"share"
+    },
+    "ExperiencePage":{
+      "title":"experience"
+    },
+    "MembersPage":{
+      "title":"members"
+    },
+    "AboutPage":{
+      "title":"about"
+    },
+    "Footer":{
+      "copyright":"Copyright 2022 CaasLab, All Rights Reserved",
+      "link":"some link"
     }
   }

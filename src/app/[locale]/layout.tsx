@@ -8,6 +8,7 @@ import {
 } from 'next-intl/server';
 import {ReactNode} from 'react';
 import Navigation from '@/components/Navigation';
+import Footer from '@/components/Footer';
 import {routing} from '@/i18n/routing';
 import { AntdRegistry } from '@ant-design/nextjs-registry';
 
@@ -45,12 +46,16 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html className="h-full" lang={locale}>
+    <html className="h-full" lang={locale} >
+      <head>
+        <link rel="shortcut icon" href="/favicon.ico" />
+      </head>
       <body className={clsx(inter.className, 'flex h-full flex-col')}>
         <AntdRegistry>
           <NextIntlClientProvider messages={messages}>
-            <Navigation />
+            <Navigation/>
             {children}
+            <Footer />
           </NextIntlClientProvider>
         </AntdRegistry>
       </body>
