@@ -1,3 +1,7 @@
+/*
+ * @Author: Mr.Car
+ * @Date: 2024-09-04 23:22:48
+ */
 import clsx from 'clsx';
 import {Inter} from 'next/font/google';
 import {NextIntlClientProvider} from 'next-intl';

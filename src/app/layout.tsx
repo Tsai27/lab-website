@@ -2,7 +2,7 @@
  * @Author: Mr.Car
  * @Date: 2024-09-04 23:20:38
  */
-import {ReactNode} from 'react';
+import {ReactNode, use} from 'react';
 import './globals.css';
 
 type Props = {

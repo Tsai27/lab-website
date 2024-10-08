@@ -41,22 +41,28 @@
       "about":"About"
     },
     "NewsPage":{
-      "title":"news"
+      "title":"news",
+      "description":"news description"
     },
     "WorkPage":{
-      "title":"work"
+      "title":"work",
+      "description":"work description"
     },
     "SharePage":{
-      "title":"share"
+      "title":"share",
+      "description":"share description"
     },
     "ExperiencePage":{
-      "title":"experience"
+      "title":"experience",
+      "description":"experience description"
     },
     "MembersPage":{
-      "title":"members"
+      "title":"members",
+      "description":"members description"
     },
     "AboutPage":{
-      "title":"about"
+      "title":"about",
+      "description":"about description"
     },
     "Footer":{
       "copyright":"Copyright 2022 CaasLab, All Rights Reserved",

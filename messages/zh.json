@@ -41,22 +41,28 @@
       "about":"关于我们"
     },
     "NewsPage":{
-      "title":"新闻"
+      "title":"新闻",
+      "description":"新闻描述"
     },
     "WorkPage":{
-      "title":"成果"
+      "title":"成果",
+      "description":"成果描述"
     },
     "SharePage":{
-      "title":"分享"
+      "title":"分享",
+      "description":"分享描述"
     },
     "ExperiencePage":{
-      "title":"经验"
+      "title":"经验",
+      "description":"经验描述"
     },
     "MembersPage":{
-      "title":"成员"
+      "title":"成员",
+      "description":"成员描述"
     },
     "AboutPage":{
-      "title":"关于我们"
+      "title":"关于我们",
+      "description":"关于我们描述"
     },
     "Footer":{
       "copyright":"版权为 2022 CaasLab 全部所有",
