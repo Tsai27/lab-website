@@ -1,3 +1,9 @@
+<!--
+ * @Author: Mr.Car
+ * @Date: 2024-09-04 21:13:50
+-->
+# 框架使用说明
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +40,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# 实验室网站项目说明
+
+1. 环境搭建: node 版本 >= v18.20.4
+2. 类库安装: 进入到项目文件夹中运行`npm install`
+3. 项目启动: 进入到项目文件夹中运行`npm run dev`
+4. 填充内容: 根据`src/app/[locale]/`下各个页面内容，同步修改 `messages/en.json` & `messages/zh.json`，很简单的，可以自己研究研究试一试；
